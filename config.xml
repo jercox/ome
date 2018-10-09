@@ -45,10 +45,7 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="LoadingDialog" value="," />
     <preference name="LoadUrlTimeoutValue" value="null" />
-    <platform name="ios">
-        <icon src="res\mipmap-xxxhdpi\ic_launcher.png" width="60" height="60" />
-        <splash src="splash2.png" width="1242" height="2208" />
-    </platform>
+    
     <platform name="android">
         <icon src="res\mipmap-mdpi\ic_launcher.png" qualifier="mdpi" />
         <icon src="res\mipmap-hdpi\ic_launcher.png" qualifier="hdpi" />
@@ -56,7 +53,7 @@
         <icon src="res\mipmap-xxhdpi\ic_launcher.png" qualifier="xxhdpi" />
         <icon src="res\mipmap-xxxhdpi\ic_launcher.png" qualifier="xxxhdpi" />
     </platform>
-    <platform name="winphone"></platform>
+  
     <icon src="icon.png" width="196" height="196" />
     <access origin="*" subdomains="false" />
 </widget>
