@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.ome.www" versionCode="2" version="0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.ome.www" versionCode="3" version="0">
     <name>OME</name>
     <description>OME permite organizar eventos como Bodas, Aniversarios, Cumpleaños, Bautizos, Ceremonias, Graduaciones y muchas más.		</description>
     <author href="https://mov.mx" email="hector@mov.mx">Héctor Joel Espinoza Rivera</author>
