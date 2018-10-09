@@ -57,7 +57,7 @@
     </platform>
     <platform name="winphone"></platform>
 	<splash src="splash2.png" gap:role="default" />
-    <icon src="icon.png" gap:role="default" />
+    <icon src="icon.png" gap:role="default" width="72" height="72" />
 	<preference name="prerendered-icon" value="true"/>
     <access origin="https://organizandomievento.com" subdomains="true" />
 </widget>
